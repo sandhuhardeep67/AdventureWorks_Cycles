@@ -1,0 +1,31 @@
+🚴 Power BI Dashboard for AdventureWorks Cycles
+I'm excited to share my recent Business Intelligence project for AdventureWorks Cycles, a fictional manufacturing company specializing in cycling equipment. This Power BI dashboard is a powerful tool designed to help management track key performance indicators (KPIs) such as sales, profits, revenue, and return rates.
+
+Project Goals:
+Comparing regional performance.
+Analyzing product-level trends.
+Identifying high-value customers.
+
+Tools and Techniques:
+Power BI: For data connection, transformation, and visualization.
+DAX (Data Analysis Expressions): For creating measures for exploratory data analysis (EDA).
+Data Modeling: Built relational data models to integrate raw data.
+
+Dashboard Pages and Key Insights:
+Executive Dashboard
+Regional Map
+Product Details
+Customer Details
+
+For every visual on the dashboard, DAX measures were calculated, including:
+-Percentage of all orders
+-90-days rolling profit
+-Average retail price
+-High ticket orders
+-Previous month profit/orders/revenue
+-Total cost/profit/revenue
+-Price adjustments using modeling and many more.
+
+You can find detailed information about the measures used in this project on added file to this respository.
+
+This dataset helped me to explore Power BI at a deeper level and pull out the much required insights.
