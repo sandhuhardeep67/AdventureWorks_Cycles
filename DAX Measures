@@ -1,10 +1,12 @@
 DAX Measures
 Here are some of the key DAX measures used in this project:
 
+
 Percentage of All Orders
 Purpose: Calculates the percentage of all orders.
 DAX
 % of All Orders = DIVIDE([Total Orders], [All Orders])
+
 
 Percentage of All Returns
 Purpose: Calculates the percentage of all returns.
@@ -124,6 +126,7 @@ Total Profit
 Purpose: Calculates the total profit.
 DAX
 Total Profit = [Total Revenue] - [Total Cost]
+
 
 Weekend Orders
 Purpose: Identifies orders placed on weekends.
